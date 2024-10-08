@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Afacad+Flux&display=swap");
+* {
+  font-family: "Afacad Flux", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.form {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.form .input {
+  font-size: 1.5rem;
+}
+.form .btn {
+  font-size: 1.5rem;
+  padding: 0.15rem;
+  border-radius: 0.5rem;
+  border: 0;
+  color: rgb(243, 243, 243);
+  background-color: #3498db;
+}/*# sourceMappingURL=edit.css.map */

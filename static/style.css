@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Afacad+Flux&display=swap");
+* {
+  font-family: "Afacad Flux", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  text-align: center;
+}
+
+.title {
+  font-size: 4rem;
+}
+
+.list .todo-item {
+  list-style: none;
+  font-size: 1.6rem;
+}
+
+.btn {
+  font-size: 1.2rem;
+  padding: 0.25rem;
+  border-radius: 0.5rem;
+  border: 0;
+  color: rgb(243, 243, 243);
+}
+
+.check-btn {
+  background-color: #2ecc71;
+}
+
+.edit-btn {
+  background-color: #3498db;
+}
+
+.del-btn {
+  background-color: #e74c3c;
+}
+
+.task-form {
+  padding: 1rem;
+}
+.task-form .task-input {
+  font-size: 1.2rem;
+}
+.task-form .task-btn {
+  color: black;
+}/*# sourceMappingURL=style.css.map */
